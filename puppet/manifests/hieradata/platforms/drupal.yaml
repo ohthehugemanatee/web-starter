@@ -12,6 +12,7 @@ forumone::php::modules:
   - mysql
   - pecl-xdebug
   - gd
+  - posix
 
 php::ini: 
   display_errors: "On"
